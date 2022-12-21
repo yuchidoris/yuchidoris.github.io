@@ -1,0 +1,31 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x,2x" timestamp="1671613715390">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3913876792" ref="index"/>
+    <file name="3.css" crc="3851486167" ref="3"/>
+    <file name="___-4.css" crc="165097753" ref="未命名-4"/>
+    <file name="2.css" crc="4271249695" ref="2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:未命名-4:2:3"/>
+    <file name="museutils.js" crc="340535759" ref="index:未命名-4:2:3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:未命名-4:2:3"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:未命名-4:2:3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:未命名-4:2:3"/>
+    <file name="require.js" crc="7928878" ref="index:未命名-4:2:3"/>
+  </folder>
+  <folder name="images">
+    <file name="2022-12-21497x680.jpg" crc="448873706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2022-12-21.jpg" crc="4081334388" seo="true" ref="未命名-4">
+      <caption webpage="未命名-4" alt=""/>
+    </file>
+    <file name="u193-4.png" crc="3862116288" ref="3"/>
+    <file name="u193-4_2x.png" crc="3847853683" ref="3"/>
+  </folder>
+  <file name="index.html" crc="502212033" seo="true" mt="1671613680016" redirect="true"/>
+  <file name="未命名-4.html" crc="3925093532" seo="true" mt="1671613206010" redirect="true"/>
+  <file name="2.html" crc="4208120997" seo="true" mt="1608197467339" redirect="true"/>
+  <file name="3.html" crc="4228194552" seo="true" mt="1608197495428" redirect="true"/>
+</manifest>
